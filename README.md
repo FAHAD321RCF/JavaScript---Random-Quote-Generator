@@ -1,1 +1,1 @@
-JavaScript---Random-Quote
+JavaScript---Random-Quo
